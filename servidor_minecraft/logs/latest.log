@@ -7,3 +7,97 @@
 [30Dec2024 16:28:36.441] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
 [30Dec2024 16:28:36.509] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/congenial-octo-fortnight/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
 [30Dec2024 16:28:36.516] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[30Dec2024 16:28:36.900] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/congenial-octo-fortnight/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[30Dec2024 16:28:36.902] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/congenial-octo-fortnight/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[30Dec2024 16:28:36.903] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/congenial-octo-fortnight/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[30Dec2024 16:28:36.905] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/congenial-octo-fortnight/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[30Dec2024 16:28:37.100] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
+[30Dec2024 16:28:37.753] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[30Dec2024 16:28:37.764] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
+[30Dec2024 16:28:38.367] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[30Dec2024 16:28:39.402] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[30Dec2024 16:28:39.433] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[30Dec2024 16:28:39.490] [main/WARN] [mixin/]: Reference map 'Aquamirae.refmap.json' for aquamirae.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Dec2024 16:28:46.983] [modloading-worker-0/INFO] [Living Things/]: Loaded ForgeRegistrationFactory for service Factory
+[30Dec2024 16:28:47.007] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[30Dec2024 16:28:47.014] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[30Dec2024 16:28:47.059] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
+[30Dec2024 16:28:47.092] [modloading-worker-0/INFO] [Living Things/]: Loaded ForgePlatformHelper for service IPlatformHelper
+[30Dec2024 16:28:47.158] [modloading-worker-0/INFO] [Living Things/]: Config 'livingthings.json' was successfully loaded.
+[30Dec2024 16:28:47.161] [modloading-worker-0/INFO] [Living Things/]: Config 'penguin.json' was successfully loaded.
+[30Dec2024 16:28:47.163] [modloading-worker-0/INFO] [Living Things/]: Config 'elephant.json' was successfully loaded.
+[30Dec2024 16:28:47.167] [modloading-worker-0/INFO] [Living Things/]: Config 'giraffe.json' was successfully loaded.
+[30Dec2024 16:28:47.170] [modloading-worker-0/INFO] [Living Things/]: Config 'lion.json' was successfully loaded.
+[30Dec2024 16:28:47.174] [modloading-worker-0/INFO] [Living Things/]: Config 'shark.json' was successfully loaded.
+[30Dec2024 16:28:47.177] [modloading-worker-0/INFO] [Living Things/]: Config 'ostrich.json' was successfully loaded.
+[30Dec2024 16:28:47.181] [modloading-worker-0/INFO] [Living Things/]: Config 'flamingo.json' was successfully loaded.
+[30Dec2024 16:28:47.186] [modloading-worker-0/INFO] [Living Things/]: Config 'crab.json' was successfully loaded.
+[30Dec2024 16:28:47.192] [modloading-worker-0/INFO] [Living Things/]: Config 'mantaray.json' was successfully loaded.
+[30Dec2024 16:28:47.195] [modloading-worker-0/INFO] [Living Things/]: Config 'raccoon.json' was successfully loaded.
+[30Dec2024 16:28:47.198] [modloading-worker-0/INFO] [Living Things/]: Config 'owl.json' was successfully loaded.
+[30Dec2024 16:28:47.210] [modloading-worker-0/INFO] [Living Things/]: Config 'ancient_blaze.json' was successfully loaded.
+[30Dec2024 16:28:47.211] [modloading-worker-0/INFO] [Living Things/]: Config 'koala.json' was successfully loaded.
+[30Dec2024 16:28:47.212] [modloading-worker-0/INFO] [Living Things/]: Config 'snail.json' was successfully loaded.
+[30Dec2024 16:28:47.213] [modloading-worker-0/INFO] [Living Things/]: Config 'monkey.json' was successfully loaded.
+[30Dec2024 16:28:47.215] [modloading-worker-0/INFO] [Living Things/]: Config 'nether_knight.json' was successfully loaded.
+[30Dec2024 16:28:47.216] [modloading-worker-0/INFO] [Living Things/]: Config 'shroomie.json' was successfully loaded.
+[30Dec2024 16:28:47.219] [modloading-worker-0/INFO] [Living Things/]: Config 'seahorse.json' was successfully loaded.
+[30Dec2024 16:28:47.222] [modloading-worker-0/INFO] [Living Things/]: Config 'baby_ender_dragon.json' was successfully loaded.
+[30Dec2024 16:28:47.223] [modloading-worker-0/INFO] [Living Things/]: Config 'peacock.json' was successfully loaded.
+[30Dec2024 16:28:49.172] [main/INFO] [Living Things/]: Registering MobAttributes
+[30Dec2024 16:28:49.194] [main/INFO] [Living Things/]: Registering SpawnPlacements
+[30Dec2024 16:28:49.354] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[30Dec2024 16:28:49.592] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
+[30Dec2024 16:28:49.593] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
+[30Dec2024 16:28:49.634] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23122!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23122!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[30Dec2024 16:28:49.642] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
+[30Dec2024 16:28:49.656] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:969) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.20.1-47.3.7.jar%23122!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23122!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:393) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:182) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	... 6 more
+[30Dec2024 16:28:50.871] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[30Dec2024 16:28:50.912] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
+net.minecraft.util.DirectoryLock$LockException: /workspaces/congenial-octo-fortnight/servidor_minecraft/./world/session.lock: already locked (possibly by other Minecraft instance?)
+	at net.minecraft.util.DirectoryLock$LockException.m_13648_(DirectoryLock.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23121!/:?]
+	at net.minecraft.util.DirectoryLock.m_13640_(DirectoryLock.java:41) ~[server-1.20.1-20230612.114412-srg.jar%23121!/:?]
+	at net.minecraft.world.level.storage.LevelStorageSource$LevelStorageAccess.<init>(LevelStorageSource.java:404) ~[server-1.20.1-20230612.114412-srg.jar%23121!/:?]
+	at net.minecraft.world.level.storage.LevelStorageSource.m_289864_(LevelStorageSource.java:342) ~[server-1.20.1-20230612.114412-srg.jar%23121!/:?]
+	at net.minecraft.server.Main.main(Main.java:141) ~[server-1.20.1-20230612.114412-srg.jar%23121!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
