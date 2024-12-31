@@ -712,3 +712,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'lookinsharp:vitalium_sword'
 [31Dec2024 02:37:54.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /cmdconfig
 [31Dec2024 02:38:45.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A player is required to run this command here
 [31Dec2024 02:38:53.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Tadoiki's game mode to Spectator Mode
+[31Dec2024 02:41:53.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: A player is required to run this command here
+[31Dec2024 02:42:00.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Tadoiki's game mode to Survival Mode
+[31Dec2024 02:43:17.383] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Thai[/[::1]:53648] logged in with entity id 10152 at (4.5, 183.0, 1.5)
+[31Dec2024 02:43:17.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thai joined the game
+[31Dec2024 02:43:17.450] [Server thread/INFO] [Jade/]: Syncing config to Thai (8d2c81cc-e1d5-360d-9760-59e77c09cf11)
+[31Dec2024 02:43:17.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thai has made the advancement [Christmas]
+[31Dec2024 02:44:04.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Thai's game mode to Creative Mode
+[31Dec2024 02:44:25.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The difficulty has been set to Hard
+[31Dec2024 02:44:59.339] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[31Dec2024 02:45:03.340] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[31Dec2024 02:45:03.342] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/turtle -> hopo:mobs/turtle
+[31Dec2024 02:45:03.345] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[31Dec2024 02:45:03.347] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[31Dec2024 02:45:03.350] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:underwater_city -> hopo:underwater_city
+[31Dec2024 02:45:03.350] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/skeleton -> hopo:mobs/skeleton
+[31Dec2024 02:45:03.350] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/drowned -> hopo:mobs/drowned
+[31Dec2024 02:45:03.350] [Worker-Main-1/WARN] [lithostitched/]: Template pool fallback chain found: hopo:mobs/dolphin -> hopo:mobs/dolphin
+[31Dec2024 02:45:11.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seed: [5904039961316964973]
