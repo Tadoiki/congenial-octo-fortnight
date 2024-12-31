@@ -19,7 +19,7 @@
 			#Range: 1 ~ 9999
 			maximum_group_size = 3
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
-			spawn_biomes = ["minecraft:dark_forest", "minecraft:mangrove_swamp", "minecraft:swamp", "minecraft:forest", "minecraft:old_growth_birch_forest", "clifftree:sparse_forest", "minecraft:flower_forest", "minecraft:grove", "minecraft:birch_forest"]
+			spawn_biomes = ["minecraft:mangrove_swamp", "minecraft:flower_forest", "clifftree:sparse_forest", "minecraft:swamp", "minecraft:old_growth_birch_forest", "minecraft:grove", "minecraft:dark_forest", "minecraft:forest", "minecraft:birch_forest"]
 
 			[entities.moth.spawning.spawn_costs]
 				#Whether to use spawn costs in spawning or not
@@ -48,7 +48,7 @@
 			#Range: 1 ~ 9999
 			maximum_group_size = 1
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
-			spawn_biomes = ["minecraft:dark_forest", "minecraft:forest", "minecraft:old_growth_birch_forest", "clifftree:sparse_forest", "minecraft:flower_forest", "minecraft:grove", "minecraft:birch_forest"]
+			spawn_biomes = ["minecraft:flower_forest", "clifftree:sparse_forest", "minecraft:old_growth_birch_forest", "minecraft:grove", "minecraft:dark_forest", "minecraft:forest", "minecraft:birch_forest"]
 			#Enables biome based variant selection. This will make this entity choose variants tailored to the biome they spawn in (Only applies to natural spawns)
 			biome_based_variants = true
 
@@ -84,7 +84,7 @@
 			#Range: 1 ~ 9999
 			maximum_group_size = 3
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
-			spawn_biomes = ["minecraft:dark_forest", "minecraft:mangrove_swamp", "minecraft:swamp", "minecraft:forest", "minecraft:old_growth_birch_forest", "clifftree:sparse_forest", "minecraft:flower_forest", "minecraft:grove", "minecraft:birch_forest"]
+			spawn_biomes = ["minecraft:mangrove_swamp", "minecraft:flower_forest", "clifftree:sparse_forest", "minecraft:swamp", "minecraft:old_growth_birch_forest", "minecraft:grove", "minecraft:dark_forest", "minecraft:forest", "minecraft:birch_forest"]
 
 			[entities.wisp.spawning.spawn_costs]
 				#Whether to use spawn costs in spawning or not
@@ -115,7 +115,7 @@
 			#Range: 1 ~ 9999
 			maximum_group_size = 1
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
-			spawn_biomes = ["minecraft:dark_forest", "minecraft:forest", "minecraft:old_growth_birch_forest", "clifftree:sparse_forest", "minecraft:flower_forest", "minecraft:grove", "minecraft:birch_forest"]
+			spawn_biomes = ["minecraft:flower_forest", "clifftree:sparse_forest", "minecraft:old_growth_birch_forest", "minecraft:grove", "minecraft:dark_forest", "minecraft:forest", "minecraft:birch_forest"]
 
 			[entities.hirschgeist.spawning.spawn_costs]
 				#Whether to use spawn costs in spawning or not
@@ -144,7 +144,7 @@
 			#Range: 1 ~ 9999
 			maximum_group_size = 1
 			#Enter biome IDs. Supports modded biomes https://minecraft.fandom.com/wiki/Biome#Biome_IDs
-			spawn_biomes = ["minecraft:frozen_peaks", "minecraft:swamp", "minecraft:meadow", "minecraft:taiga", "minecraft:beach", "minecraft:birch_forest", "clifftree:gravelly_beach", "minecraft:mangrove_swamp", "minecraft:windswept_forest", "minecraft:forest", "clifftree:temperate_beach", "minecraft:jungle", "minecraft:flower_forest", "minecraft:sparse_jungle", "minecraft:stony_peaks", "minecraft:bamboo_jungle", "minecraft:old_growth_pine_taiga", "minecraft:windswept_gravelly_hills", "minecraft:lush_caves", "minecraft:old_growth_birch_forest", "minecraft:snowy_taiga", "minecraft:grove", "minecraft:snowy_beach", "minecraft:cherry_grove", "minecraft:windswept_hills", "minecraft:dark_forest", "minecraft:snowy_slopes", "minecraft:snowy_plains", "clifftree:sparse_forest", "minecraft:jagged_peaks"]
+			spawn_biomes = ["minecraft:snowy_plains", "minecraft:beach", "minecraft:flower_forest", "clifftree:sparse_forest", "minecraft:snowy_beach", "minecraft:dark_forest", "minecraft:frozen_peaks", "minecraft:taiga", "minecraft:snowy_slopes", "minecraft:jungle", "minecraft:sparse_jungle", "minecraft:windswept_forest", "minecraft:lush_caves", "minecraft:mangrove_swamp", "minecraft:old_growth_pine_taiga", "minecraft:cherry_grove", "minecraft:forest", "minecraft:snowy_taiga", "minecraft:windswept_gravelly_hills", "minecraft:windswept_hills", "minecraft:stony_peaks", "minecraft:bamboo_jungle", "minecraft:swamp", "minecraft:grove", "minecraft:jagged_peaks", "minecraft:meadow", "clifftree:gravelly_beach", "minecraft:old_growth_birch_forest", "minecraft:birch_forest", "clifftree:temperate_beach"]
 
 			[entities.zotzpyre.spawning.spawn_costs]
 				#Whether to use spawn costs in spawning or not
