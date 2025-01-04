@@ -1,331 +1,241 @@
 {
-  "takesapillage:root": {
+  "minecraft:recipes/decorations/ladder": {
     "criteria": {
-      "always": "2024-12-31 02:30:38 +0000"
+      "has_stick": "2025-01-04 01:54:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-01-04 01:53:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-01-04 01:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-04 01:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-01-04 01:54:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-01-04 01:53:36 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2024-12-31 02:30:38 +0000"
+      "unlock_right_away": "2025-01-04 01:52:38 +0000"
     },
     "done": true
   },
-  "the_bumblezone:root": {
+  "minecraft:recipes/misc/stick": {
     "criteria": {
-      "instant_granted": "2024-12-31 02:30:38 +0000"
+      "has_planks": "2025-01-04 01:54:16 +0000"
     },
     "done": true
   },
-  "the_bumblezone:wiki": {
+  "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "instant_granted": "2024-12-31 02:30:38 +0000"
-    },
-    "done": true
-  },
-  "whisperwoods:recipes/whisperwoods/hand_of_fate": {
-    "criteria": {
-      "has_blaze_powder": "2024-12-31 02:30:38 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/christmas": {
-    "criteria": {
-      "coded_trigger": "2024-12-31 02:30:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "clifftree:inferno": "2024-12-31 02:39:57 +0000",
-      "clifftree:caves": "2024-12-31 02:39:15 +0000",
-      "minecraft:stony_peaks": "2024-12-31 02:35:54 +0000",
-      "minecraft:dripstone_caves": "2024-12-31 02:40:02 +0000",
-      "minecraft:grove": "2024-12-31 02:35:53 +0000",
-      "minecraft:forest": "2024-12-31 02:35:52 +0000",
-      "clifftree:lukewarm_caves": "2024-12-31 02:39:54 +0000",
-      "minecraft:frozen_peaks": "2024-12-31 02:35:57 +0000",
-      "minecraft:old_growth_birch_forest": "2024-12-31 02:30:39 +0000",
-      "minecraft:deep_dark": "2024-12-31 02:39:31 +0000"
+      "grassland": "2025-01-04 01:52:39 +0000"
     },
     "done": false
   },
-  "tombstone:adventure/root": {
+  "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
-      "auto": "2024-12-31 02:30:39 +0000"
+      "has_planks": "2025-01-04 01:54:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ladder": {
+  "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
-      "has_stick": "2024-12-31 02:42:21 +0000"
+      "has_planks": "2025-01-04 01:54:16 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
+  "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
-      "has_stick": "2024-12-31 02:42:21 +0000"
+      "has_white_wool": "2025-01-04 01:53:36 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_crimson_fence_gate": {
+  "cataclysm:root": {
     "criteria": {
-      "has_stick": "2024-12-31 02:42:21 +0000"
+      "custom_test_name": "2025-01-04 01:52:38 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/motion_activated_light": {
+  "irons_spellbooks:grant_patchouli": {
     "criteria": {
-      "has_stick": "2024-12-31 02:42:21 +0000"
+      "tick": "2025-01-04 01:52:38 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_jungle_fence_gate": {
+  "minecraft:recipes/redstone/oak_button": {
     "criteria": {
-      "has_stick": "2024-12-31 02:42:21 +0000"
+      "has_planks": "2025-01-04 01:54:16 +0000"
     },
     "done": true
   },
-  "hopo:minecraft/adventure/all_mineshaft": {
+  "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
-      "locate_vanilla_mineshaft": "2024-12-31 02:40:29 +0000",
-      "locate_vanilla_mineshaft_mesa": "2024-12-31 02:37:39 +0000"
-    },
-    "done": false
-  },
-  "the_bumblezone:structures/enter_all_structures": {
-    "criteria": {
-      "in_honey_cave_room": "2024-12-31 02:34:54 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/tools/wooden_axe": {
-    "criteria": {
-      "has_stick": "2024-12-31 02:42:21 +0000"
+      "has_planks": "2025-01-04 01:54:16 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/sunbird_blessing": {
+  "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
-      "all_effects": "2024-12-31 02:36:57 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
-    "criteria": {
-      "has_stick": "2024-12-31 02:42:21 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_jungle_fence": {
-    "criteria": {
-      "has_stick": "2024-12-31 02:42:21 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_warped_fence": {
-    "criteria": {
-      "has_stick": "2024-12-31 02:42:21 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/cancel_ghostly_shape": {
-    "criteria": {
-      "coded_trigger": "2024-12-31 02:35:41 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
-    "criteria": {
-      "has_stick": "2024-12-31 02:42:21 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_acacia_fence": {
-    "criteria": {
-      "has_stick": "2024-12-31 02:42:21 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
-    "criteria": {
-      "has_stick": "2024-12-31 02:42:21 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/standard": {
-    "criteria": {
-      "has_chest": "2024-12-31 02:33:49 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_cherry_fence": {
-    "criteria": {
-      "has_stick": "2024-12-31 02:42:21 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
-    "criteria": {
-      "has_stick": "2024-12-31 02:42:21 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
-    "criteria": {
-      "has_stick": "2024-12-31 02:42:21 +0000"
+      "has_mutton": "2025-01-04 01:53:36 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
-      "has_stick": "2024-12-31 02:42:21 +0000"
+      "has_stick": "2025-01-04 01:54:25 +0000"
     },
     "done": true
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
-      "has_stick": "2024-12-31 02:42:21 +0000"
+      "has_stick": "2025-01-04 01:54:25 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/blank_upgrade": {
+  "minecraft:recipes/decorations/white_banner": {
     "criteria": {
-      "has_chest": "2024-12-31 02:33:49 +0000"
+      "has_white_wool": "2025-01-04 01:53:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-04 01:54:16 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
-      "has_log": "2024-12-31 02:42:21 +0000"
+      "has_log": "2025-01-04 01:54:00 +0000"
     },
     "done": true
   },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
-      "has_stick": "2024-12-31 02:42:21 +0000"
+      "has_stick": "2025-01-04 01:54:25 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/sonic_security_system": {
+  "the_bumblezone:root": {
     "criteria": {
-      "has_stick": "2024-12-31 02:42:21 +0000"
+      "instant_granted": "2025-01-04 01:52:38 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/enderman": {
+  "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
-      "has_ender_pearl": "2024-12-31 02:33:55 +0000"
+      "has_planks": "2025-01-04 01:54:16 +0000"
     },
     "done": true
   },
-  "the_bumblezone:teleportation/is_near_beehive": {
+  "biomesoplenty:biomesoplenty/root": {
     "criteria": {
-      "is_near_beehive": "2024-12-31 02:33:15 +0000"
+      "grassland": "2025-01-04 01:52:39 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
+  "the_bumblezone:wiki": {
     "criteria": {
-      "has_stick": "2024-12-31 02:42:21 +0000"
+      "instant_granted": "2025-01-04 01:52:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-01-04 01:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-01-04 01:53:36 +0000"
     },
     "done": true
   },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
-      "has_stick": "2024-12-31 02:42:21 +0000"
+      "has_stick": "2025-01-04 01:54:25 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/reinforced_mangrove_fence": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "has_stick": "2024-12-31 02:42:21 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
-    "criteria": {
-      "has_stick": "2024-12-31 02:42:21 +0000"
+      "killed_something": "2025-01-04 01:53:35 +0000"
     },
     "done": true
   },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
-      "has_stick": "2024-12-31 02:42:21 +0000"
+      "has_stick": "2025-01-04 01:54:25 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
-      "has_logs": "2024-12-31 02:42:21 +0000"
+      "has_logs": "2025-01-04 01:54:00 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/reinforced_birch_fence": {
+  "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "has_stick": "2024-12-31 02:42:21 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_dark_oak_fence": {
-    "criteria": {
-      "has_stick": "2024-12-31 02:42:21 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_oak_fence": {
-    "criteria": {
-      "has_stick": "2024-12-31 02:42:21 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
-    "criteria": {
-      "has_stick": "2024-12-31 02:42:21 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/sc_manual": {
-    "criteria": {
-      "has_wood": "2024-12-31 02:42:21 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_bamboo_fence": {
-    "criteria": {
-      "has_stick": "2024-12-31 02:42:21 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_crimson_fence": {
-    "criteria": {
-      "has_stick": "2024-12-31 02:42:21 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:biomes/discover_all_biomes": {
-    "criteria": {
-      "pollinated_pillar": "2024-12-31 02:34:54 +0000",
-      "hive_wall": "2024-12-31 02:34:05 +0000",
-      "pollinated_fields": "2024-12-31 02:34:08 +0000"
+      "minecraft:dark_forest": "2025-01-04 01:53:41 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-01-04 01:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-01-04 01:53:36 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-01-04 01:54:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-01-04 01:52:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
-      "has_log": "2024-12-31 02:42:21 +0000"
+      "has_log": "2025-01-04 01:54:00 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/reinforced_spruce_fence": {
+  "minecraft:story/root": {
     "criteria": {
-      "has_stick": "2024-12-31 02:42:21 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
-    "criteria": {
-      "teleport_to_bumblezone_pearl": "2024-12-31 02:34:02 +0000"
+      "crafting_table": "2025-01-04 01:54:19 +0000"
     },
     "done": true
   },
